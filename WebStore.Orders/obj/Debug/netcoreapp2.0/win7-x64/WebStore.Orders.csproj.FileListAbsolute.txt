@@ -1,0 +1,3 @@
+D:\REPOS\WebStore-ServiceFabric\WebStore.Orders\obj\Debug\netcoreapp2.0\win7-x64\WebStore.Orders.csproj.CoreCompileInputs.cache
+D:\REPOS\WebStore-ServiceFabric\WebStore.Orders\obj\Debug\netcoreapp2.0\win7-x64\WebStore.Orders.AssemblyInfoInputs.cache
+D:\REPOS\WebStore-ServiceFabric\WebStore.Orders\obj\Debug\netcoreapp2.0\win7-x64\WebStore.Orders.AssemblyInfo.cs
